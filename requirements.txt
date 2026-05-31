@@ -1,0 +1,21 @@
+# MNIST Handwritten Digit Recognizer
+# Install all dependencies with:
+#   pip install -r requirements.txt
+
+# ── Core ──────────────────────────────────────────────────────────────────────
+numpy>=1.26.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+pillow>=10.0.0
+
+# ── TensorFlow / Keras (choose one) ──────────────────────────────────────────
+# Full TensorFlow (GPU support):
+# tensorflow>=2.13.0
+
+# CPU only — lighter, recommended if no GPU:
+tensorflow-cpu>=2.13.0
+
+# ── PyTorch (choose one) ──────────────────────────────────────────────────────
+# Uncomment below if using train_pytorch.py instead of train.py
+# torch>=2.0.0
+# torchvision>=0.15.0
