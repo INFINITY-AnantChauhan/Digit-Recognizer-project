@@ -182,7 +182,7 @@ pip install -r requirements.txt
 ## 👤 Author
 
 **Anant Chauhan**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@INFINITY-AnantChauhan](https://github.com/INFINITY-AnantChauhan)
 
 ---
 
